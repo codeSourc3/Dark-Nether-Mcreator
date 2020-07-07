@@ -2,18 +2,6 @@
   "id_map": {},
   "mod_elements": [
     {
-      "name": "DarkNetherEMSAPortalTriggerUsed",
-      "type": "procedure",
-      "sortid": 1,
-      "compiles": true,
-      "locked_code": false,
-      "ids": {},
-      "registry_name": "dark_nether_emsa_portal_trigger_used",
-      "metadata": {
-        "dependencies": []
-      }
-    },
-    {
       "name": "DarkNetherEMSA",
       "type": "dimension",
       "sortid": 1,
@@ -21,12 +9,31 @@
       "locked_code": false,
       "ids": {},
       "registry_name": "dark_nether_emsa"
+    },
+    {
+      "name": "DarkNetherCompressedObsidian",
+      "type": "block",
+      "sortid": 4,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "dark_nether_compact_obsidian"
+    },
+    {
+      "name": "CompressedObsidian",
+      "type": "recipe",
+      "sortid": 5,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "compressed_obsidian"
     }
   ],
   "variable_elements": [],
   "sound_elements": [],
   "language_map": {
     "en_us": {
+      "block.dark_nether.dark_nether_compact_obsidian": "Dark Nether Compact Obsidian",
       "item.dark_nether.dark_nether_emsa": "Dark Nether EMSA Portal Igniter"
     }
   },

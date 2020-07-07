@@ -3,7 +3,7 @@
   "_type": "dimension",
   "definition": {
     "portalFrame": {
-      "value": "Blocks.NETHERRACK"
+      "value": "CUSTOM:DarkNetherCompressedObsidian"
     },
     "portalParticles": {
       "value": "PORTAL"
@@ -16,9 +16,9 @@
     "igniterTab": {
       "value": "TOOLS"
     },
-    "texture": "",
+    "texture": "dark_nether_key",
     "portalTexture": "dark_nether_portal",
-    "enablePortal": false,
+    "enablePortal": true,
     "biomesInDimension": [
       {
         "value": "nether"
@@ -52,9 +52,6 @@
     "doesWaterVaporize": false,
     "sleepResult": "BED_EXPLODES",
     "hasSkyLight": false,
-    "imitateOverworldBehaviour": false,
-    "whenPortaTriggerlUsed": {
-      "name": "DarkNetherEMSAPortalTriggerUsed"
-    }
+    "imitateOverworldBehaviour": false
   }
 }

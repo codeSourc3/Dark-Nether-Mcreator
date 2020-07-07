@@ -1,0 +1,10 @@
+{
+  "variants": {
+    "axis=z": {
+      "model": "dark_nether:block/dark_nether_emsa_portal_ew"
+    },
+    "axis=x": {
+      "model": "dark_nether:block/dark_nether_emsa_portal_ns"
+    }
+  }
+}
