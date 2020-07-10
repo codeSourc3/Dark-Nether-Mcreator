@@ -770,7 +770,7 @@ public class DarkNetherEMSADimension extends DarkNetherModElements.ModElement {
 
 		@Override
 		public boolean doesWaterVaporize() {
-			return false;
+			return true;
 		}
 
 		@Override /**

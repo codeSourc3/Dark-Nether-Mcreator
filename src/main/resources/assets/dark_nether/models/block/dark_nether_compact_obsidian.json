@@ -1,12 +1,12 @@
 {
   "parent": "block/cube",
   "textures": {
-    "down": "dark_nether:blocks/compressed_obsidian",
-    "up": "dark_nether:blocks/compressed_obsidian",
-    "north": "dark_nether:blocks/compressed_obsidian",
-    "east": "dark_nether:blocks/compact_obsidian",
-    "south": "dark_nether:blocks/compressed_obsidian",
-    "west": "dark_nether:blocks/compressed_obsidian",
-    "particle": "dark_nether:blocks/compressed_obsidian"
+    "down": "dark_nether:blocks/dark_nether_compressed_obsidian",
+    "up": "dark_nether:blocks/dark_nether_compressed_obsidian",
+    "north": "dark_nether:blocks/dark_nether_compressed_obsidian",
+    "east": "dark_nether:blocks/dark_nether_compressed_obsidian",
+    "south": "dark_nether:blocks/dark_nether_compressed_obsidian",
+    "west": "dark_nether:blocks/dark_nether_compressed_obsidian",
+    "particle": "dark_nether:blocks/dark_nether_compressed_obsidian"
   }
 }
